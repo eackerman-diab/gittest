@@ -1,0 +1,15 @@
+/home/me/projects/gittest/gittest/bin/Debug/net8.0/HelloWorld
+/home/me/projects/gittest/gittest/bin/Debug/net8.0/HelloWorld.deps.json
+/home/me/projects/gittest/gittest/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/me/projects/gittest/gittest/bin/Debug/net8.0/HelloWorld.dll
+/home/me/projects/gittest/gittest/bin/Debug/net8.0/HelloWorld.pdb
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/HelloWorld.dll
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/HelloWorld.pdb
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/me/projects/gittest/gittest/obj/Debug/net8.0/ref/HelloWorld.dll
